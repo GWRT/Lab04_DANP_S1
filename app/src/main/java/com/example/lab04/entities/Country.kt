@@ -16,3 +16,5 @@ data class Country (
     val tld : String,
     val km2 : Int
 )
+
+//https://stackoverflow.com/questions/49027487/insert-json-data-using-room-library

@@ -12,9 +12,8 @@ data class Country (
     val capital_En : String,
     val capital_Es : String,
     val dialCode : String,
-    val code : String,
+    val code_2 : String,
+    val code_3 : String,
     val tld : String,
     val km2 : Int
 )
-
-//https://stackoverflow.com/questions/49027487/insert-json-data-using-room-library
